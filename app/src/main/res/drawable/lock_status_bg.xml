@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorAccent" />
+    <corners android:radius="8dp" />
+    <path
+        android:pathData="M0,0 L100,0 L100,50 A50,50 0 0,1 0,50 Z"
+        android:fillColor="@color/colorAccent" />
+</shape>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A0E29</color>
+    <color name="colorPrimaryDark">#050914</color>
+    <color name="colorAccent">#4D8FFB</color>
+    <color name="colorBackground">#121738</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextSecondary">#DDDDDD</color>  <!-- Daha yüksek kontrast için açık gri -->
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorDanger">#F44336</color>
+    <color name="colorGrey">#CCCCCC</color>  <!-- Daha yüksek kontrast için açık gri -->
+</resources>
